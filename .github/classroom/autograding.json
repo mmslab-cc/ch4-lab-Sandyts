@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "lab1",
+      "setup": "",
+      "run": "make lab1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "lab2_p2",
+      "setup": "",
+      "run": "make lab2_p2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "lab2_p3",
+      "setup": "",
+      "run": "make lab2_p3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "lab2_p4",
+      "setup": "",
+      "run": "make lab2_p4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "lab2_p5",
+      "setup": "",
+      "run": "make lab2_p5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "lab2_p8",
+      "setup": "",
+      "run": "make lab2_p8",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "lab2_p9",
+      "setup": "",
+      "run": "make lab2_p9",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
